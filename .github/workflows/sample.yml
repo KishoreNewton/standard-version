@@ -1,0 +1,14 @@
+name: Container
+
+on: pull_request
+
+jobs:
+  node_docker:
+    runs-on: ubuntu-latest
+    container:
+      image: node:13.5.0-alpine3.10
+    steps:
+      - name: Log the node version
+        run: |
+          node -v
+          cat /etc/os-release

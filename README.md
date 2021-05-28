@@ -107,7 +107,7 @@ git add .
 git commit -m "style: The styles you made goes here"
 ```
 
-### REFACTOR
+### REFACTOR CODE
 
 use `refactor` as keyword for adding `Refactored code`
 

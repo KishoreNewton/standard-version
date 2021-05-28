@@ -2,6 +2,33 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0-0](https://github.com/KishoreNewton/standard-version/compare/v1.0.4...v1.1.0-0) (2021-05-28)
+
+
+### Features
+
+* add sample.html ([fca14ab](https://github.com/KishoreNewton/standard-version/commit/fca14ab9e7089d012d9b6a350632033dd7aab909))
+
+
+### Bug Fixes
+
+* fix spellling mistake in code ([856f6f9](https://github.com/KishoreNewton/standard-version/commit/856f6f9e35a30a9165c227a7eefb976066ab537f))
+
+
+### CI
+
+* add sample.yml in .github workflows ([0cb554a](https://github.com/KishoreNewton/standard-version/commit/0cb554a72feb222288ccce0c5d2893391a5791ce))
+
+
+### Tests
+
+* add simple javascript test ([f424a2c](https://github.com/KishoreNewton/standard-version/commit/f424a2c95d8a32ff393a847bfb001df49b2eccc8))
+
+
+### Documentation
+
+* add doc for refactor ([02acd65](https://github.com/KishoreNewton/standard-version/commit/02acd656bd3f2bef3bd3875a3b6f9a819159cfb5))
+
 ### [1.0.4](https://github.com/KishoreNewton/standard-version/compare/v1.0.4-0...v1.0.4) (2021-05-28)
 
 ### [1.0.4-0](https://github.com/KishoreNewton/standard-version/compare/v1.0.3...v1.0.4-0) (2021-05-28)

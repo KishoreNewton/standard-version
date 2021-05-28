@@ -1,6 +1,6 @@
 {
   "name": "standard-version",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "standard-version": {
@@ -52,7 +52,6 @@
     ]
   },
   "scripts": {
-    "prerelease": "standard-version --prerelease",
     "release": "standard-version",
     "major": "standard-version --release-as major",
     "minor": "standard-version --release-as minor",
